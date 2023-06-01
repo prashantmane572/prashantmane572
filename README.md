@@ -1,7 +1,6 @@
 ![Data Analyst](https://github.com/prashantmane572/prashantmane572/blob/main/data1.jpg)
 
-# Prashant Mane
-- 
+# **Prashant Mane** 
 ## Data Analyst
 
 Highly motivated data analyst with 4+ years of experience in sales coordination and retail merchandise planning. Hands-on 8+ months of data analyst project experience in Masai. Proficient in utilizing SQL, Python, Excel, and data visualization tools to analyze, manage, and extract insights from complex datasets. I am confident that my experience and skills will enable me to make a valuable contribution to any data analysis team and help the company achieve its goals.
