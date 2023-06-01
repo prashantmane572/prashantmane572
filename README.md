@@ -5,7 +5,14 @@
 
 Highly motivated data analyst with 4+ years of experience in sales coordination and retail merchandise planning. Hands-on 8+ months of data analyst project experience in Masai. Proficient in utilizing SQL, Python, Excel, and data visualization tools to analyze, manage, and extract insights from complex datasets. I am confident that my experience and skills will enable me to make a valuable contribution to any data analysis team and help the company achieve its goals.
 
-Skills: SQL / Advance Excel / Python / Basic Machine Learning / Microsoft Power BI / Google Sheet / Google Data Studio
+### Skills: 
+SQL
+Advance Excel
+Python
+Basic Machine Learning
+Microsoft Power BI
+Google Sheet
+Google Data Studio
 
 - 🌱 I’m currently learning Informatica, a powerful data integration and management tool 
 
