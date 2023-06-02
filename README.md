@@ -54,9 +54,13 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="40" height="40"/>
     </a>
     <!-- Additional tools -->
-    Excel, Power BI, Google Sheets
-</p>
-
+    <a href="#" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="excel" width="40" height="40"/>
+    </a>
+    <a href="#" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Power_bi_logo_black.svg" alt="power-bi" width="40" height="40"/>
+    </a>
+    <a href="#" target="_blank" rel="noreferrer">
 
 <!---
 <h3 align="left">Languages and Tools:</h3>
