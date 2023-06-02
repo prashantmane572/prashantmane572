@@ -44,7 +44,7 @@
     <img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" alt="numpy" width="60" height="60"/>
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://en.wikipedia.org/wiki/Microsoft_Power_BI#/media/File:Power_BI_logo.svg" alt="powerbi" width="60" height="60"/>
+    <img src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo.png" alt="powerbi" width="60" height="60"/>
   </a>
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="tableau" width="60" height="60"/>
