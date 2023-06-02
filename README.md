@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Informatica tool, a powerful data integration and management tool**
 
 - 💬 Ask me about 
-    - Data analysis techniques and methodologies, 
+        - Data analysis techniques and methodologies, 
     - SQL querying and database management, 
     - Python programming for data analysis, 
     - Data visualization and reporting, 
