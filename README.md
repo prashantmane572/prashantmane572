@@ -1,20 +1,30 @@
 ![Data Analyst](https://github.com/prashantmane572/prashantmane572/blob/main/data1.jpg)
 
-# **Prashant Mane** 
-## I'm Data Analyst
+<h1 align="center">Hi 👋, I'm Prashanat Mane</h1>
+<h3 align="center">I am an aspiring Data Analyst with a strong passion for working with and manipulating data to uncover valuable insights. I am dedicated to providing the best possible analysis and leveraging data to drive informed decision-making</h3>
 
-Highly motivated data analyst with 4+ years of experience in sales coordination and retail merchandise planning. Hands-on 8+ months of data analyst project experience in Masai. Proficient in utilizing SQL, Python, Excel, and data visualization tools to analyze, manage, and extract insights from complex datasets. I am confident that my experience and skills will enable me to make a valuable contribution to any data analysis team and help the company achieve its goals.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantmane572&label=Profile%20views&color=0e75b6&style=flat" alt="prashantmane572" /> </p>
 
-## Skills
-* SQL
-* Advance Excel
-* Python
-* Basic Machine Learning
-* Microsoft Power BI
-* Google Sheet
-* Google Data Studio
+- 🌱 I’m currently learning **Informatica tool, a powerful data integration and management tool**
 
-- 🌱 I’m currently learning Informatica, a powerful data integration and management tool 
+- 💬 Ask me about **Data analysis techniques and methodologies, SQL querying and database management, Python programming for data analysis, Data visualization and reporting, Data cleaning and preprocessing, Statistical analysis and modeling, Machine learning applications in data analysis, Excel tips and tricks for data analysis**
 
+- 📫 How to reach me **prashantmane572@gmail.com**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/prashantmane572)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/prashantmane572/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/prashantmane572)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/prashantmane572)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](prashantmane572@gmail.com)  
+- 📄 Know about my experiences [https://drive.google.com/file/d/1StgJHfHoBz4u3o0VEnOwWD8XXB_nU6aP/view?usp=drive_link](https://drive.google.com/file/d/1StgJHfHoBz4u3o0VEnOwWD8XXB_nU6aP/view?usp=drive_link)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/prashantmane572" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prashantmane572" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/prashantmane572" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prashantmane572" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/prashantmane572" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prashantmane572" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashantmane572&show_icons=true&locale=en&layout=compact" alt="prashantmane572" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantmane572&" alt="prashantmane572" /></p>
