@@ -22,6 +22,7 @@
 <a href="https://www.leetcode.com/prashantmane572" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prashantmane572" height="30" width="40" /></a>
 </p>
 
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://grafana.com" target="_blank" rel="noreferrer">
@@ -50,6 +51,21 @@
     </a>
     <a href="https://numpy.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="40" height="40"/>
+    </a>
+    <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_Logo.png" alt="excel" width="40" height="40"/>
+    </a>
+    <a href="https://www.google.com/sheets" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Google_Sheets_logo_2020.png" alt="google-sheets" width="40" height="40"/>
+    </a>
+    <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" alt="power-bi" width="40" height="40"/>
+    </a>
+    <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="tableau" width="40" height="40"/>
+    </a>
+    <a href="https://www.metabase.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/metabase/metabase-icon.svg" alt="metabase" width="40" height="40"/>
     </a>
 </p>
 
