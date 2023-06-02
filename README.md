@@ -1,13 +1,21 @@
 ![Data Analyst](https://github.com/prashantmane572/prashantmane572/blob/main/data1.jpg)
 
 <h1 align="center">Hi 👋, I'm Prashanat Mane</h1>
-<h3 align="center">I am an aspiring Data Analyst with a strong passion for working with and manipulating data to uncover valuable insights. I am dedicated to providing the best possible analysis and leveraging data to drive informed decision-making</h3>
+<h3 align="center">I am an aspiring Data Analyst with a strong passion for working with and manipulating data to uncover valuable insights. I am dedicated to providing the best possible analysis and leveraging data to drive informed decision-making.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantmane572&label=Profile%20views&color=0e75b6&style=flat" alt="prashantmane572" /> </p>
 
 - 🌱 I’m currently learning **Informatica tool, a powerful data integration and management tool**
 
-- 💬 Ask me about **Data analysis techniques and methodologies, SQL querying and database management, Python programming for data analysis, Data visualization and reporting, Data cleaning and preprocessing, Statistical analysis and modeling, Machine learning applications in data analysis, Excel tips and tricks for data analysis**
+- 💬 Ask me about 
+    - **Data analysis techniques and methodologies, 
+    - SQL querying and database management, 
+    - Python programming for data analysis, 
+    - Data visualization and reporting, 
+    - Data cleaning and preprocessing, 
+    - Statistical analysis and modeling, 
+    - Machine learning applications in data analysis, 
+    - Excel tips and tricks for data analysis**
 
 - 📫 How to reach me **prashantmane572@gmail.com**
 
