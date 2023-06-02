@@ -66,5 +66,5 @@
 -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashantmane572&show_icons=true&locale=en" alt="prashantmane572" /></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=prashantmane572&" alt="prashantmane572" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantmane572&" alt="prashantmane572" /></p>
 
