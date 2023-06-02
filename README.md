@@ -32,7 +32,7 @@
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="60" height="60"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" alt="mysql" width="60" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="60" height="60"/>
@@ -50,19 +50,22 @@
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="60" height="60"/>
   </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="numpy" width="60" height="60"/>
+    <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="numpy" width="60" height="60"/>
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://en.wikipedia.org/wiki/Microsoft_Power_BI#/media/File:Power_BI_logo.svg" alt="powerbi" width="60" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" alt="powerbi" width="60" height="60"/>
   </a>
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://en.wikipedia.org/wiki/Tableau_Software#/media/File:Tableau_logo.svg" alt="tableau" width="60" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="tableau" width="60" height="60"/>
   </a>
   <a href="https://www.metabase.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/metabase/metabase-icon.svg" alt="metabase" width="60" height="60"/>
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://en.wikipedia.org/wiki/Microsoft_Excel#/media/File:Microsoft_Office_Excel_(2019%E2%80%93present).svg" alt="excel" width="60" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftexcel/microsoftexcel-plain.svg" alt="excel" width="60" height="60"/>
+  </a>
+  <a href="https://www.google.com/sheets" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/google_sheets/google_sheets-icon.svg" alt="google_sheets" width="60" height="60"/>
   </a>
 </p>
 
