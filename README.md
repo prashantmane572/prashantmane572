@@ -41,7 +41,7 @@
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="60" height="60"/>
   </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" alt="numpy" width="60" height="60"/>
+    <img src="https://github.com/prashantmane572/prashantmane572/blob/main/Numpy%20logo.png" alt="numpy" width="60" height="60"/>
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/prashantmane572/prashantmane572/blob/main/Power_BI_logo.svg.png" alt="powerbi" width="60" height="60"/>
