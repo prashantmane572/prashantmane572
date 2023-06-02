@@ -55,9 +55,6 @@
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="excel" width="60" height="60"/>
   </a>
-  <a href="https://www.google.com/sheets" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_sheets/google_sheets-icon.svg" alt="google_sheets" width="60" height="60"/>
-  </a>
 </p>
 
 <!---
