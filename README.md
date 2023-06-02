@@ -47,7 +47,7 @@
     <img src="https://github.com/prashantmane572/prashantmane572/blob/main/Power_BI_logo.svg.png" alt="powerbi" width="60" height="60"/>
   </a>
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="tableau" width="60" height="60"/>
+    <img src="https://github.com/prashantmane572/prashantmane572/blob/main/Tableau.png" alt="tableau" width="60" height="60"/>
   </a>
   <a href="https://www.metabase.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/metabase/metabase-icon.svg" alt="metabase" width="60" height="60"/>
