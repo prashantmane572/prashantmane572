@@ -1,6 +1,6 @@
 ![Data Analyst](https://github.com/prashantmane572/prashantmane572/blob/main/data1.jpg)
 
-<h1 align="center">Hi 👋, I'm Prashanat Mane</h1>
+<h1 align="center">Hi <img src="https://github.com/prashantmane572/prashantmane572/blob/main/Wave.gif" width="50" height="50" />, I'm Prashanat Mane</h1>
 <h3 align="center">I am an aspiring Data Analyst with a strong passion for working with and manipulating data to uncover valuable insights. I am dedicated to providing the best possible analysis and leveraging data to drive informed decision-making.</h3>
 
 <br>
@@ -22,13 +22,13 @@
 - Machine learning applications in data analysis  
 - Excel tips and tricks for data analysis
 
-### <img src="https://github.com/prashantmane572/prashantmane572/blob/main/pnt.png" width="30" height="30" /> Currently Learning
+### <img src="https://github.com/prashantmane572/prashantmane572/blob/main/plant.png" width="35" height="35" /> Currently Learning
 Informatica tool, a powerful data integration and management tool
 
-### <img src="https://github.com/prashantmane572/prashantmane572/blob/main/Resume.png" width="35" height="30" /> Know about my experiences
+### <img src="https://github.com/prashantmane572/prashantmane572/blob/main/document.png" width="35" height="35" /> Know about my experiences
 [Resume](https://drive.google.com/file/d/1StgJHfHoBz4u3o0VEnOwWD8XXB_nU6aP/view?usp=drive_link)
 
-### <img src="https://github.com/prashantmane572/prashantmane572/blob/main/Mail.png" width="30" height="30" /> How to reach me
+### <img src="https://github.com/prashantmane572/prashantmane572/blob/main/email.png" width="35" height="35" /> How to reach me
 Email: prashantmane572@gmail.com
 
 
