@@ -25,6 +25,33 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://github.com/prashantmane572" target="_blank" rel="noreferrer">
+    <img src="https://github.com/prashantmane572/prashantmane572/blob/main/GitHub_Invertocat_Logo.svg.png" alt="GitHub" height="60" width="60"/>
+  </a>    
+  <a href="mailto:prashantmane572@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" height="60" width="60"/>
+  </a>  
+    <a href="https://linkedin.com/in/prashantmane572" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prashantmane572" height="60" width="60" />
+  </a>
+  <a href="https://twitter.com/prashantmane572" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="prashantmane572" height="60" width="60" />
+  </a>
+    <a href="https://kaggle.com/prashantmane572" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prashantmane572" height="60" width="60" />
+  </a>
+  <a href="https://www.hackerrank.com/prashantmane572" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prashantmane572" height="60" width="60" />
+  </a>
+  <a href="https://www.leetcode.com/prashantmane572" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prashantmane572" height="60" width="60" />
+  </a>
+</p>
+
+
+
+<!--<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://github.com/prashantmane572" target="_blank" rel="noreferrer">
     <img align="center" src="https://github.com/prashantmane572/prashantmane572/blob/main/GitHub_Invertocat_Logo.svg.png" alt="GitHub" height="60" width="60"/>
   </a>    
   <a href="mailto:prashantmane572@gmail.com" target="_blank" rel="noreferrer">
@@ -44,32 +71,6 @@
   </a>
   <a href="https://www.leetcode.com/prashantmane572" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prashantmane572" height="60" width="60" />
-  </a>
-</p>
-
-<!--
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/prashantmane572" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prashantmane572" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/prashantmane572" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prashantmane572" height="30" width="40" />
-  </a>
-  <a href="https://kaggle.com/prashantmane572" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prashantmane572" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/prashantmane572" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prashantmane572" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/prashantmane572" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prashantmane572" height="30" width="40" />
-  </a>
-  <a href="mailto:prashantmane572@gmail.com" target="_blank" rel="noreferrer">
-    <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/prashantmane572" target="_blank" rel="noreferrer">
-    <img align="center" src="https://github.com/prashantmane572/prashantmane572/blob/main/GitHub_Invertocat_Logo.svg.png" alt="GitHub" width="40" height="40"/>
   </a>
 </p>
 -->
