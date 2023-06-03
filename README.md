@@ -73,12 +73,7 @@ Email: prashantmane572@gmail.com
 <br>
 
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=prashantmane572&show_icons=true&locale=en" alt="prashantmane572" />
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantmane572&" alt="prashantmane572" />
-</p>
 
-<br>
 <!--- Contact with me -->
 
 ## Connect with me:
@@ -107,4 +102,12 @@ Email: prashantmane572@gmail.com
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prashantmane572" height="60" width="60" style="margin-right: 10px" />
   </a>
 </p>
+
+
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=prashantmane572&show_icons=true&locale=en" alt="prashantmane572" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantmane572&" alt="prashantmane572" />
+</p>
+
 
