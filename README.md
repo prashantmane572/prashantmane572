@@ -7,7 +7,7 @@
 
 
 ## 💬 Ask me about 
-  - 
+  </a> 
     - Data analysis techniques and methodologies
     - SQL querying and database management
     - Python programming for data analysis
