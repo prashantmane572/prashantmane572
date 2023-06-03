@@ -21,16 +21,31 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1StgJHfHoBz4u3o0VEnOwWD8XXB_nU6aP/view?usp=drive_link](https://drive.google.com/file/d/1StgJHfHoBz4u3o0VEnOwWD8XXB_nU6aP/view?usp=drive_link)
 
+<!--- Contact with me -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/prashantmane572" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prashantmane572" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/prashantmane572" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prashantmane572" height="30" width="40" /></a>
-<a href="https://kaggle.com/prashantmane572" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prashantmane572" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/prashantmane572" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prashantmane572" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/prashantmane572" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prashantmane572" height="30" width="40" /></a>
+  <a href="https://twitter.com/prashantmane572" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prashantmane572" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/prashantmane572" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prashantmane572" height="30" width="40" />
+  </a>
+  <a href="https://kaggle.com/prashantmane572" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prashantmane572" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/prashantmane572" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prashantmane572" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/prashantmane572" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prashantmane572" height="30" width="40" />
+  </a>
+  <a href="mailto:prashantmane572@gmail.com" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="prashantmane572" height="30" width="40" />
+  </a>
 </p>
 
-
+<!--- Languages and Toold -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   
