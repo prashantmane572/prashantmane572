@@ -11,7 +11,7 @@
 <br>
 
 
-## 💬 Ask me about
+## <img src="https://github.com/prashantmane572/prashantmane572/blob/main/cloud.png" width="35" height="35" /> Ask me about
 
 - Data analysis techniques and methodologies
 - SQL querying and database management
