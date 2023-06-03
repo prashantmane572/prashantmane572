@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantmane572&label=Profile%20views&color=0e75b6&style=flat" alt="prashantmane572" /> </p>
 
 
-- 💬 Ask me about 
+## 💬 Ask me about 
     - Data analysis techniques and methodologies
     - SQL querying and database management
     - Python programming for data analysis
