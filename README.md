@@ -41,10 +41,10 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prashantmane572" height="30" width="40" />
   </a>
   <a href="mailto:prashantmane572@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="40" height="40"/>
+    <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="40" height="40"/>
   </a>
   <a href="https://github.com/prashantmane572" target="_blank" rel="noreferrer">
-    <img src="https://github.com/prashantmane572/prashantmane572/blob/main/GitHub_Invertocat_Logo.svg.png" alt="GitHub" width="40" height="40"/>
+    <img align="center" src="https://github.com/prashantmane572/prashantmane572/blob/main/GitHub_Invertocat_Logo.svg.png" alt="GitHub" width="40" height="40"/>
   </a>
 </p>
 
