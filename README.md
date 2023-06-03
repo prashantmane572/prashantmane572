@@ -8,7 +8,7 @@
 
 ## 💬 Ask me about 
 * Data analysis techniques and methodologies
-- SQL querying and database management
++ SQL querying and database management
 - Python programming for data analysis
 - Data visualization and reporting
 - Data cleaning and preprocessing
