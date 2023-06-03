@@ -16,14 +16,14 @@
 - Machine learning applications in data analysis  
 - Excel tips and tricks for data analysis
 
-### 🌱 Currently Learning
-- Informatica tool, a powerful data integration and management tool
+#### 🌱 Currently Learning
+Informatica tool, a powerful data integration and management tool
 
-### 📄 Know about my experiences
+#### 📄 Know about my experiences
 [Link to my experiences](https://drive.google.com/file/d/1StgJHfHoBz4u3o0VEnOwWD8XXB_nU6aP/view?usp=drive_link)
 
-### 📫 How to reach me
-- Email: prashantmane572@gmail.com
+#### 📫 How to reach me
+Email: prashantmane572@gmail.com
 
 
 
