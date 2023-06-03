@@ -6,7 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantmane572&label=Profile%20views&color=0e75b6&style=flat" alt="prashantmane572" /> </p>
 
 
-## 💬 Ask me about 
+## 💬 Ask me about
+
 - Data analysis techniques and methodologies
 - SQL querying and database management
 - Python programming for data analysis
@@ -16,22 +17,18 @@
 - Machine learning applications in data analysis  
 - Excel tips and tricks for data analysis
 
-#### 🌱 Currently Learning
+### <img src="https://github.com/prashantmane572/prashantmane572/blob/main/pnt.png" width="30" height="30" /> Currently Learning
 Informatica tool, a powerful data integration and management tool
 
-#### 📄 Know about my experiences
-[Link to my experiences](https://drive.google.com/file/d/1StgJHfHoBz4u3o0VEnOwWD8XXB_nU6aP/view?usp=drive_link)
+### <img src="https://github.com/prashantmane572/prashantmane572/blob/main/Resume.png" width="35" height="30" /> Know about my experiences
+[Resume](https://drive.google.com/file/d/1StgJHfHoBz4u3o0VEnOwWD8XXB_nU6aP/view?usp=drive_link)
 
-#### 📫 How to reach me
+### <img src="https://github.com/prashantmane572/prashantmane572/blob/main/Mail.png" width="30" height="30" /> How to reach me
 Email: prashantmane572@gmail.com
 
 
 
-
-
 <br>
-
-
 
 
 <!--- Languages and Toold -->
