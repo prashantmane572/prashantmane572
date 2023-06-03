@@ -40,13 +40,11 @@
   <a href="https://www.leetcode.com/prashantmane572" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prashantmane572" height="30" width="40" />
   </a>
-  <br>
-  <br>
   <a href="mailto:prashantmane572@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="40" height="40"/>
   </a>
   <a href="https://github.com/prashantmane572" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/>
+    <img src="https://en.wikipedia.org/wiki/GitHub#/media/File:GitHub_Invertocat_Logo.svg" alt="GitHub" width="40" height="40"/>
   </a>
 </p>
 
