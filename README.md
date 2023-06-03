@@ -6,19 +6,24 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantmane572&label=Profile%20views&color=0e75b6&style=flat" alt="prashantmane572" /> </p>
 
 
-## 💬 Ask me about </h3>
-  - Data analysis techniques and methodologies
-  - SQL querying and database management
-  - Python programming for data analysis
-  - Data visualization and reporting
-  - Data cleaning and preprocessing
-  - Statistical analysis and modeling
-  - Machine learning applications in data analysis  
-  - Excel tips and tricks for data analysis
+## 💬 Ask me about 
+- Data analysis techniques and methodologies
+- SQL querying and database management
+- Python programming for data analysis
+- Data visualization and reporting
+- Data cleaning and preprocessing
+- Statistical analysis and modeling
+- Machine learning applications in data analysis  
+- Excel tips and tricks for data analysis
 
-- 🌱 I’m currently learning **Informatica tool, a powerful data integration and management tool**
-- 📄 Know about my experiences [https://drive.google.com/file/d/1StgJHfHoBz4u3o0VEnOwWD8XXB_nU6aP/view?usp=drive_link](https://drive.google.com/file/d/1StgJHfHoBz4u3o0VEnOwWD8XXB_nU6aP/view?usp=drive_link)
-- 📫 How to reach me **prashantmane572@gmail.com**
+### 🌱 Currently Learning
+- Informatica tool, a powerful data integration and management tool
+
+### 📄 Know about my experiences
+[Link to my experiences](https://drive.google.com/file/d/1StgJHfHoBz4u3o0VEnOwWD8XXB_nU6aP/view?usp=drive_link)
+
+### 📫 How to reach me
+- Email: prashantmane572@gmail.com
 
 
 
