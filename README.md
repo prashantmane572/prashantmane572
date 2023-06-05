@@ -11,7 +11,9 @@
 <br>
 
 
-## <img src="https://github.com/prashantmane572/prashantmane572/blob/main/cloud.png" width="35" height="35" /> Ask me about
+# <img src="https://github.com/prashantmane572/prashantmane572/blob/main/info-sign.png" width="40" height="40" /> About me
+
+### <img src="https://github.com/prashantmane572/prashantmane572/blob/main/cloud.png" width="35" height="35" /> Ask me about
 
 - Data analysis techniques and methodologies
 - SQL querying and database management
@@ -38,7 +40,7 @@ Email: prashantmane572@gmail.com
 
 <!--- Languages and Toold -->
 
-## Languages and Tools:
+# <img src="https://github.com/prashantmane572/prashantmane572/blob/main/ToolsTechnology.png" width="40" height="40" /> Languages and Tools:
 
 <p align="center">
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
@@ -127,7 +129,7 @@ Email: prashantmane572@gmail.com
 
 <!--- Contact with me -->
 
-## Connect with me:
+# <img src="https://github.com/prashantmane572/prashantmane572/blob/main/Connectme.png" width="40" height="40" /> Connect with me:
 
 <p align="center">
   <a href="https://github.com/prashantmane572" target="_blank" rel="noreferrer">
